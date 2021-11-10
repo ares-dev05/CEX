@@ -1,0 +1,18 @@
+{
+    "backendURL" : "http://139.59.178.154/",
+    "imgURL" : "http://139.59.178.154/Player_images/",
+    "playerdataURL" : "http://139.59.178.154/Player_Data/",
+    "ratingURL" : "http://139.59.178.154/ratings/ratings.txt",
+    "player2id" : {
+        "mbappe" : "53",
+        "haaland" : "105",
+        "pogba" : "1992"
+    },
+    "countdown" : {
+        "mbappe" : "2021,11,02,18,21",
+        "haaland" : "2021,11,02,21,00",
+        "pogba" : "2021,12,02,21,00"
+    },
+    "shareburn" : "off",
+    "fees" : "off"
+}

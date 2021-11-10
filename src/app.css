@@ -1,0 +1,28 @@
+    .spinner-border {
+        display: inline-block;
+        width: 2rem !important;
+        height: 2rem !important;
+        border-right-color:transparent ;
+        border-radius: 50%;
+        animation: spinner-border .75s linear infinite;
+    }
+.text-light{
+        color: #007bff !important;
+        }
+.text-center{
+    text-align: center !important;
+}        
+.armchart_theme{
+    background-color: #30303d; 
+    color: #fff;
+}
+.bg-dark{
+    background: #131722 !important; 
+
+}
+.apexcharts-menu {
+    background: #131722;
+}
+.amount-type{
+width: 15%;
+}
